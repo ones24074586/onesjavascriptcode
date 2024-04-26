@@ -1,0 +1,18 @@
+.he{
+    background-color: rgba(43, 226, 107, 0.639);
+    color: hsl(240, 100%, 50%);
+    justify-self:center;
+    justify-items: center;
+    align-content: center;
+    font-style:oblique;
+    display: inline;
+    visibility:visible;
+    gap: 20px;
+    display: flex;
+    display:flexbox;
+    display: flow-root;
+    box-decoration-break:slice;
+    align-items: 30px;
+    align-self: 10px;
+    width: 40vh;
+}
